@@ -2,29 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Open Source Sussex Neuroscience</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sussex-neuroscience.github.io/authors/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 04 Feb 2020 05:44:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 14 Feb 2020 05:21:12 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://sussex-neuroscience.github.io/authors/</link>
     </image>
     
     <item>
       <title>Andre Maia Chagas</title>
-      <link>/authors/andre-maia-chagas/</link>
-      <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>/authors/andre-maia-chagas/</guid>
+      <link>https://sussex-neuroscience.github.io/authors/andre-maia-chagas/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/authors/andre-maia-chagas/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://sussex-neuroscience.github.io/authors/andre/</link>
+      <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/authors/andre/</guid>
+      <description>&lt;p&gt;I’m passionate about open science and open source hardware, and how those two can be used to increase science and educations reach all over. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.&lt;/p&gt;
+&lt;p&gt;I started Open Neuroscience , and volunteer at Trend in Africa as an open source adviser and by organizing and running Open Labware workshops.&lt;/p&gt;
+&lt;p&gt;Currently I work at the Department of Neurosciences in the University of Sussex, where I develop equipment to support research labs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sussex-neuroscience.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://sussex-neuroscience.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Welcome to the Sussex Neuroscience Repository for Open Science tools!&lt;/p&gt;
 </description>
     </item>

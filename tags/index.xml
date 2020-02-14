@@ -2,53 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Open Source Sussex Neuroscience</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sussex-neuroscience.github.io/tags/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 04 Feb 2020 05:44:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 14 Feb 2020 05:21:12 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://sussex-neuroscience.github.io/tags/</link>
     </image>
     
     <item>
+      <title>Behaviour</title>
+      <link>https://sussex-neuroscience.github.io/tags/behaviour/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operant conditioning</title>
+      <link>https://sussex-neuroscience.github.io/tags/operant-conditioning/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/operant-conditioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pavlovian conditioning</title>
+      <link>https://sussex-neuroscience.github.io/tags/pavlovian-conditioning/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/pavlovian-conditioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skinner box</title>
+      <link>https://sussex-neuroscience.github.io/tags/skinner-box/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/skinner-box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>arduino</title>
-      <link>/tags/arduino/</link>
+      <link>https://sussex-neuroscience.github.io/tags/arduino/</link>
       <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>/tags/arduino/</guid>
+      <guid>https://sussex-neuroscience.github.io/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fMRI</title>
-      <link>/tags/fmri/</link>
+      <link>https://sussex-neuroscience.github.io/tags/fmri/</link>
       <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>/tags/fmri/</guid>
+      <guid>https://sussex-neuroscience.github.io/tags/fmri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psychology</title>
-      <link>/tags/psychology/</link>
+      <link>https://sussex-neuroscience.github.io/tags/psychology/</link>
       <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>/tags/psychology/</guid>
+      <guid>https://sussex-neuroscience.github.io/tags/psychology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>microfluidics</title>
-      <link>/tags/microfluidics/</link>
+      <link>https://sussex-neuroscience.github.io/tags/microfluidics/</link>
       <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
-      <guid>/tags/microfluidics/</guid>
+      <guid>https://sussex-neuroscience.github.io/tags/microfluidics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voltammetry</title>
-      <link>/tags/voltammetry/</link>
+      <link>https://sussex-neuroscience.github.io/tags/voltammetry/</link>
       <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
-      <guid>/tags/voltammetry/</guid>
+      <guid>https://sussex-neuroscience.github.io/tags/voltammetry/</guid>
       <description></description>
     </item>
     

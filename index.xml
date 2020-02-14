@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source Sussex Neuroscience</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sussex-neuroscience.github.io/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Source Sussex Neuroscience</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 04 Feb 2020 05:44:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 14 Feb 2020 05:21:12 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Open Source Sussex Neuroscience</title>
-      <link>/</link>
+      <link>https://sussex-neuroscience.github.io/</link>
     </image>
     
     <item>
+      <title>Med Associates Add-On</title>
+      <link>https://sussex-neuroscience.github.io/project/medassocaddon/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/medassocaddon/</guid>
+      <description>&lt;p&gt;This is being developed for the 
+&lt;a href=&#34;http://www.sussex.ac.uk/profiles/206917/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crombag lab&lt;/a&gt;
+ as well as the 
+&lt;a href=&#34;http://www.sussex.ac.uk/psychology/koyaensemblelab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koya Lab&lt;/a&gt;
+. The goal is to create a &amp;ldquo;translator&amp;rdquo; that allows for the use of off-the-shelf electronics and DIY solutions with the Med Associates systems. This way experiments can be programmed the same way as before, but with more flexibility in terms of what can be achieved, at a much faster pace. In other words this systems takes digital and analog signals (normally around 5V) and converts them to 28V triggers that med associates systems detects. It can also take the 28V signals coming from med associates and trigger other custom electronics.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/med-associates-addon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Author:&lt;/strong&gt; 
+&lt;a href=&#34;https://amchagas.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre M Chagas&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Voltage amplifier</title>
-      <link>/project/voltageamp/</link>
+      <link>https://sussex-neuroscience.github.io/project/voltageamp/</link>
       <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>/project/voltageamp/</guid>
+      <guid>https://sussex-neuroscience.github.io/project/voltageamp/</guid>
       <description>&lt;p&gt;This system was developed as part of a research project of the 
 &lt;a href=&#34;http://www.sussex.ac.uk/profiles/92444/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ward Lab&lt;/a&gt;
 . It is to be used with a stimulus isolation adaptor from BIOPAC, more specifically one of the models that provide isolated voltage: &lt;a href=&#34;https://www.biopac.com/product/stimulus-isolation-adapters/&#34;&gt;https://www.biopac.com/product/stimulus-isolation-adapters/&lt;/a&gt;.&lt;/p&gt;
@@ -33,9 +53,9 @@
     
     <item>
       <title>Electrode calibration</title>
-      <link>/project/electrodecal/</link>
+      <link>https://sussex-neuroscience.github.io/project/electrodecal/</link>
       <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
-      <guid>/project/electrodecal/</guid>
+      <guid>https://sussex-neuroscience.github.io/project/electrodecal/</guid>
       <description>&lt;p&gt;A project developed for the 
 &lt;a href=&#34;www.sussex.ac.uk/profiles/454349/research&#34;&gt;Singer Lab&lt;/a&gt;
 , based on 
