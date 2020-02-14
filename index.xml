@@ -24,10 +24,6 @@
 . The goal is to create a &amp;ldquo;translator&amp;rdquo; that allows for the use of off-the-shelf electronics and DIY solutions with the Med Associates systems. This way experiments can be programmed the same way as before, but with more flexibility in terms of what can be achieved, at a much faster pace. In other words this systems takes digital and analog signals (normally around 5V) and converts them to 28V triggers that med associates systems detects. It can also take the 28V signals coming from med associates and trigger other custom electronics.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/Sussex-Neuroscience/med-associates-addon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Author:&lt;/strong&gt; 
-&lt;a href=&#34;https://amchagas.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre M Chagas&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -43,10 +39,6 @@
 &lt;p&gt;The idea is simple, we use the true analog output ports from the Arduino DUE as an independent channel and amplify their signals using Operational amplifiers. In this case two LM741 from Texas instruments. Using serial communication the system can be controlled in various ways, from the Arduino IDE to whatever programming languages (Python, Matlab, etc).&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/Sussex-Neuroscience/voltage-amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Author:&lt;/strong&gt; 
-&lt;a href=&#34;https://amchagas.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre M Chagas&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -63,10 +55,6 @@
  we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Author:&lt;/strong&gt; 
-&lt;a href=&#34;https://amchagas.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre M Chagas&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>

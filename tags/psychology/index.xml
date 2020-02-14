@@ -23,10 +23,6 @@
 &lt;p&gt;The idea is simple, we use the true analog output ports from the Arduino DUE as an independent channel and amplify their signals using Operational amplifiers. In this case two LM741 from Texas instruments. Using serial communication the system can be controlled in various ways, from the Arduino IDE to whatever programming languages (Python, Matlab, etc).&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/Sussex-Neuroscience/voltage-amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Author:&lt;/strong&gt; 
-&lt;a href=&#34;https://amchagas.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre M Chagas&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
