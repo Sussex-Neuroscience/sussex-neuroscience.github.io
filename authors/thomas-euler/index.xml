@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Euler | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/authors/thomas-euler/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/authors/thomas-euler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Euler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thomas Euler</title>
+      <link>https://sussex-neuroscience.github.io/authors/thomas-euler/</link>
+    </image>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://sussex-neuroscience.github.io/publication/franke-arbitrary-spectrum-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/franke-arbitrary-spectrum-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach</title>
+      <link>https://sussex-neuroscience.github.io/publication/baden-spikeling-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/baden-spikeling-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

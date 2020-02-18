@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pico spritzer | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/tags/pico-spritzer/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/tags/pico-spritzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pico spritzer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:00:33 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pico spritzer</title>
+      <link>https://sussex-neuroscience.github.io/tags/pico-spritzer/</link>
+    </image>
+    
+    <item>
+      <title>Open Spritzer</title>
+      <link>https://sussex-neuroscience.github.io/project/openspritzer/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:33 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/openspritzer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

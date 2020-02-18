@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial neuron | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/tags/artificial-neuron/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/tags/artificial-neuron/index.xml" rel="self" type="application/rss+xml" />
+    <description>artificial neuron</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 14:59:48 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>artificial neuron</title>
+      <link>https://sussex-neuroscience.github.io/tags/artificial-neuron/</link>
+    </image>
+    
+    <item>
+      <title>Spikeling</title>
+      <link>https://sussex-neuroscience.github.io/project/spikeling/</link>
+      <pubDate>Tue, 18 Feb 2020 14:59:48 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/spikeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

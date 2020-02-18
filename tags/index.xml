@@ -5,12 +5,116 @@
     <link>https://sussex-neuroscience.github.io/tags/</link>
       <atom:link href="https://sussex-neuroscience.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 14 Feb 2020 05:21:12 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:00:56 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://sussex-neuroscience.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>stimulator</title>
+      <link>https://sussex-neuroscience.github.io/tags/stimulator/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:56 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/stimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual neuroscience</title>
+      <link>https://sussex-neuroscience.github.io/tags/visual-neuroscience/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:56 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/visual-neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>injection</title>
+      <link>https://sussex-neuroscience.github.io/tags/injection/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:33 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pico spritzer</title>
+      <link>https://sussex-neuroscience.github.io/tags/pico-spritzer/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:33 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/pico-spritzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>colour</title>
+      <link>https://sussex-neuroscience.github.io/tags/colour/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:24 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/colour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecology</title>
+      <link>https://sussex-neuroscience.github.io/tags/ecology/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:24 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyperspectral scanner</title>
+      <link>https://sussex-neuroscience.github.io/tags/hyperspectral-scanner/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:24 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/hyperspectral-scanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vision</title>
+      <link>https://sussex-neuroscience.github.io/tags/vision/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:24 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arduino</title>
+      <link>https://sussex-neuroscience.github.io/tags/arduino/</link>
+      <pubDate>Tue, 18 Feb 2020 14:59:48 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial neuron</title>
+      <link>https://sussex-neuroscience.github.io/tags/artificial-neuron/</link>
+      <pubDate>Tue, 18 Feb 2020 14:59:48 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/artificial-neuron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://sussex-neuroscience.github.io/tags/education/</link>
+      <pubDate>Tue, 18 Feb 2020 14:59:48 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chemistry</title>
+      <link>https://sussex-neuroscience.github.io/tags/chemistry/</link>
+      <pubDate>Tue, 18 Feb 2020 14:41:57 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass spectrometry</title>
+      <link>https://sussex-neuroscience.github.io/tags/mass-spectrometry/</link>
+      <pubDate>Tue, 18 Feb 2020 14:41:57 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/mass-spectrometry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behaviour</title>
@@ -45,14 +149,6 @@
     </item>
     
     <item>
-      <title>arduino</title>
-      <link>https://sussex-neuroscience.github.io/tags/arduino/</link>
-      <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>https://sussex-neuroscience.github.io/tags/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>fMRI</title>
       <link>https://sussex-neuroscience.github.io/tags/fmri/</link>
       <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
@@ -81,6 +177,70 @@
       <link>https://sussex-neuroscience.github.io/tags/voltammetry/</link>
       <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
       <guid>https://sussex-neuroscience.github.io/tags/voltammetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action potentials</title>
+      <link>https://sussex-neuroscience.github.io/tags/action-potentials/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/action-potentials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational neuroscience</title>
+      <link>https://sussex-neuroscience.github.io/tags/computational-neuroscience/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/computational-neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light emitting diodes</title>
+      <link>https://sussex-neuroscience.github.io/tags/light-emitting-diodes/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/light-emitting-diodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membrane potential</title>
+      <link>https://sussex-neuroscience.github.io/tags/membrane-potential/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/membrane-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurons</title>
+      <link>https://sussex-neuroscience.github.io/tags/neurons/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/neurons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience</title>
+      <link>https://sussex-neuroscience.github.io/tags/neuroscience/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oscilloscopes</title>
+      <link>https://sussex-neuroscience.github.io/tags/oscilloscopes/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/oscilloscopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photodiodes</title>
+      <link>https://sussex-neuroscience.github.io/tags/photodiodes/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/tags/photodiodes/</guid>
       <description></description>
     </item>
     

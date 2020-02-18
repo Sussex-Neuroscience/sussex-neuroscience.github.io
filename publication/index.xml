@@ -5,12 +5,44 @@
     <link>https://sussex-neuroscience.github.io/publication/</link>
       <atom:link href="https://sussex-neuroscience.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://sussex-neuroscience.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://sussex-neuroscience.github.io/publication/franke-arbitrary-spectrum-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/franke-arbitrary-spectrum-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low-cost hyperspectral scanner for natural imaging and the study of animal colour vision above and under water</title>
+      <link>https://sussex-neuroscience.github.io/publication/nevala-low-cost-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/nevala-low-cost-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach</title>
+      <link>https://sussex-neuroscience.github.io/publication/baden-spikeling-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/baden-spikeling-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openspritzer: an open hardware pressure ejection system for reliably delivering picolitre volumes</title>
+      <link>https://sussex-neuroscience.github.io/publication/forman-openspritzer-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/forman-openspritzer-2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Nevala | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/authors/n.-nevala/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/authors/n.-nevala/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Nevala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>N. Nevala</title>
+      <link>https://sussex-neuroscience.github.io/authors/n.-nevala/</link>
+    </image>
+    
+    <item>
+      <title>A low-cost hyperspectral scanner for natural imaging and the study of animal colour vision above and under water</title>
+      <link>https://sussex-neuroscience.github.io/publication/nevala-low-cost-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/nevala-low-cost-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

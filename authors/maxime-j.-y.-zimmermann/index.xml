@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime J. Y. Zimmermann | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/authors/maxime-j.-y.-zimmermann/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/authors/maxime-j.-y.-zimmermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxime J. Y. Zimmermann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Maxime J. Y. Zimmermann</title>
+      <link>https://sussex-neuroscience.github.io/authors/maxime-j.-y.-zimmermann/</link>
+    </image>
+    
+    <item>
+      <title>Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach</title>
+      <link>https://sussex-neuroscience.github.io/publication/baden-spikeling-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/baden-spikeling-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
