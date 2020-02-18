@@ -5,12 +5,20 @@
     <link>https://sussex-neuroscience.github.io/authors/philipp/</link>
       <atom:link href="https://sussex-neuroscience.github.io/authors/philipp/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Source Sussex Neuroscience</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:00:56 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:58:59 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Open Source Sussex Neuroscience</title>
       <link>https://sussex-neuroscience.github.io/authors/philipp/</link>
     </image>
+    
+    <item>
+      <title>Tetrachromatic Stimulator</title>
+      <link>https://sussex-neuroscience.github.io/project/tetrastim/</link>
+      <pubDate>Tue, 18 Feb 2020 15:58:59 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/tetrastim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Visual Stimulator</title>
