@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>André Maia Chagas | Open Source Sussex Neuroscience</title>
+    <title>Andre Maia Chagas | Open Source Sussex Neuroscience</title>
     <link>https://sussex-neuroscience.github.io/authors/andre-maia-chagas/</link>
       <atom:link href="https://sussex-neuroscience.github.io/authors/andre-maia-chagas/index.xml" rel="self" type="application/rss+xml" />
-    <description>André Maia Chagas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <description>Andre Maia Chagas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>André Maia Chagas</title>
+      <title>Andre Maia Chagas</title>
       <link>https://sussex-neuroscience.github.io/authors/andre-maia-chagas/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Open Hardware to Alleviate the Burden of COVID-19 on Global Health Systems</title>
+      <link>https://sussex-neuroscience.github.io/publication/chagas-leveraging-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/publication/chagas-leveraging-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
