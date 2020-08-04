@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sussex-neuroscience.github.io/authors/andre/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sussex-neuroscience.github.io/publication_types/2/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -93,11 +88,6 @@
   </url>
   
   <url>
-    <loc>https://sussex-neuroscience.github.io/authors/tom/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sussex-neuroscience.github.io/authors/tom-baden/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -105,6 +95,11 @@
   <url>
     <loc>https://sussex-neuroscience.github.io/tags/ventilators/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sussex-neuroscience.github.io/authors/andre/</loc>
+    <lastmod>2020-03-26T11:02:20+00:00</lastmod>
   </url>
   
   <url>
@@ -148,16 +143,6 @@
   </url>
   
   <url>
-    <loc>https://sussex-neuroscience.github.io/authors/maxime/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sussex-neuroscience.github.io/authors/philipp/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sussex-neuroscience.github.io/authors/andre-m.-chagas/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -183,12 +168,27 @@
   </url>
   
   <url>
+    <loc>https://sussex-neuroscience.github.io/authors/maxime/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sussex-neuroscience.github.io/authors/philipp/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sussex-neuroscience.github.io/tags/hyperspectral/</loc>
     <lastmod>2020-02-18T15:58:59+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sussex-neuroscience.github.io/project/ledzappelin/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sussex-neuroscience.github.io/authors/tom/</loc>
     <lastmod>2020-02-18T15:58:59+00:00</lastmod>
   </url>
   
