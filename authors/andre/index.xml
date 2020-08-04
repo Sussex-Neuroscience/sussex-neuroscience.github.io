@@ -5,12 +5,25 @@
     <link>https://sussex-neuroscience.github.io/authors/andre/</link>
       <atom:link href="https://sussex-neuroscience.github.io/authors/andre/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Source Sussex Neuroscience</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Thu, 26 Mar 2020 11:02:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Mon, 03 Aug 2020 11:02:20 +0000</lastBuildDate>
     <image>
       <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Open Source Sussex Neuroscience</title>
       <link>https://sussex-neuroscience.github.io/authors/andre/</link>
     </image>
+    
+    <item>
+      <title>PMT signal combiner</title>
+      <link>https://sussex-neuroscience.github.io/project/pmt-combiner/</link>
+      <pubDate>Mon, 03 Aug 2020 11:02:20 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/pmt-combiner/</guid>
+      <description>&lt;p&gt;This project got started when there was the need to combine the signals coming out
+of two photo multiplier tubes (PMTs) installed in one of the 2-photon microscopes at the microscopy unit in Sussex Neuroscience.&lt;/p&gt;
+&lt;p&gt;The particular PMTs installed were models 
+&lt;a href=&#34;https://www.thorlabs.com/thorproduct.cfm?partnumber=PMT2101/M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PM2101&lt;/a&gt; from Thorlabs. This means that they are actually a &amp;ldquo;combo&amp;rdquo; of PMT plus current to voltage converter, and the output signal from the unit is voltage.&lt;/p&gt;
+&lt;p&gt;More technical details can be found on the project repository: &lt;a href=&#34;https://github.com/sussex-neuroscience/pmt-combiner/&#34;&gt;https://github.com/sussex-neuroscience/pmt-combiner/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fast Diode</title>
