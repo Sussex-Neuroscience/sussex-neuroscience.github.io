@@ -123,6 +123,11 @@
   </url>
   
   <url>
+    <loc>https://sussex-neuroscience.github.io/tags/calibration/</loc>
+    <lastmod>2020-03-26T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sussex-neuroscience.github.io/project/fastdiode/</loc>
     <lastmod>2020-03-26T11:02:20+00:00</lastmod>
   </url>
@@ -133,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://sussex-neuroscience.github.io/tags/visual/</loc>
+    <loc>https://sussex-neuroscience.github.io/tags/vision/</loc>
     <lastmod>2020-03-26T11:02:20+00:00</lastmod>
   </url>
   
@@ -203,6 +208,11 @@
   </url>
   
   <url>
+    <loc>https://sussex-neuroscience.github.io/tags/stimulator/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sussex-neuroscience.github.io/authors/tom/</loc>
     <lastmod>2020-02-18T15:58:59+00:00</lastmod>
   </url>
@@ -213,17 +223,7 @@
   </url>
   
   <url>
-    <loc>https://sussex-neuroscience.github.io/tags/visual-stimulator/</loc>
-    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sussex-neuroscience.github.io/project/arbitrarystim/</loc>
-    <lastmod>2020-02-18T15:00:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sussex-neuroscience.github.io/tags/stimulator/</loc>
     <lastmod>2020-02-18T15:00:56+00:00</lastmod>
   </url>
   
@@ -273,11 +273,6 @@
   </url>
   
   <url>
-    <loc>https://sussex-neuroscience.github.io/tags/vision/</loc>
-    <lastmod>2020-02-18T15:00:24+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sussex-neuroscience.github.io/tags/arduino/</loc>
     <lastmod>2020-02-18T14:59:48+00:00</lastmod>
   </url>
@@ -299,6 +294,11 @@
   
   <url>
     <loc>https://sussex-neuroscience.github.io/tags/chemistry/</loc>
+    <lastmod>2020-02-18T14:41:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sussex-neuroscience.github.io/tags/electrophysiology/</loc>
     <lastmod>2020-02-18T14:41:57+00:00</lastmod>
   </url>
   
@@ -329,21 +329,6 @@
   
   <url>
     <loc>https://sussex-neuroscience.github.io/project/medassocaddon/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sussex-neuroscience.github.io/tags/operant-conditioning/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sussex-neuroscience.github.io/tags/pavlovian-conditioning/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sussex-neuroscience.github.io/tags/skinner-box/</loc>
     <lastmod>2020-02-14T05:21:12+00:00</lastmod>
   </url>
   

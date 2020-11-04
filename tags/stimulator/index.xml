@@ -5,12 +5,20 @@
     <link>https://sussex-neuroscience.github.io/tags/stimulator/</link>
       <atom:link href="https://sussex-neuroscience.github.io/tags/stimulator/index.xml" rel="self" type="application/rss+xml" />
     <description>stimulator</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:00:56 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:58:59 +0000</lastBuildDate>
     <image>
       <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>stimulator</title>
       <link>https://sussex-neuroscience.github.io/tags/stimulator/</link>
     </image>
+    
+    <item>
+      <title>LED Zappelin&#39;</title>
+      <link>https://sussex-neuroscience.github.io/project/ledzappelin/</link>
+      <pubDate>Tue, 18 Feb 2020 15:58:59 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/ledzappelin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Visual Stimulator</title>
