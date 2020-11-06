@@ -5,12 +5,21 @@
     <link>https://sussex-neuroscience.github.io/tags/education/</link>
       <atom:link href="https://sussex-neuroscience.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <description>education</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 14:59:48 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 03 Nov 2020 11:02:20 +0000</lastBuildDate>
     <image>
       <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>education</title>
       <link>https://sussex-neuroscience.github.io/tags/education/</link>
     </image>
+    
+    <item>
+      <title>VR/AR goggles</title>
+      <link>https://sussex-neuroscience.github.io/project/vr-goggles/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/vr-goggles/</guid>
+      <description>&lt;p&gt;Based on online resources, we are simply putting together a model present in thingiverse, some cheap lenses and magnets bought on ebay.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spikeling</title>
