@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>education | Open Source Sussex Neuroscience</title>
-    <link>https://sussex-neuroscience.github.io/tags/education/</link>
-      <atom:link href="https://sussex-neuroscience.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
-    <description>education</description>
+    <title>alex | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/authors/alex/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/authors/alex/index.xml" rel="self" type="application/rss+xml" />
+    <description>alex</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 03 Nov 2020 11:02:20 +0000</lastBuildDate>
     <image>
       <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>education</title>
-      <link>https://sussex-neuroscience.github.io/tags/education/</link>
+      <title>alex</title>
+      <link>https://sussex-neuroscience.github.io/authors/alex/</link>
     </image>
     
     <item>
@@ -58,23 +58,6 @@
 &lt;a href=&#34;https://foundation.mozilla.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla foundation&lt;/a&gt; and supported by 
 &lt;a href=&#34;https://trendinafrica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trend in Africa&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>VR/AR goggles</title>
-      <link>https://sussex-neuroscience.github.io/project/vr-goggles/</link>
-      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
-      <guid>https://sussex-neuroscience.github.io/project/vr-goggles/</guid>
-      <description>&lt;p&gt;Based on online resources, we are simply putting together a model present in thingiverse, some cheap lenses and magnets bought on ebay.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spikeling</title>
-      <link>https://sussex-neuroscience.github.io/project/spikeling/</link>
-      <pubDate>Tue, 18 Feb 2020 14:59:48 +0000</pubDate>
-      <guid>https://sussex-neuroscience.github.io/project/spikeling/</guid>
-      <description></description>
     </item>
     
   </channel>
