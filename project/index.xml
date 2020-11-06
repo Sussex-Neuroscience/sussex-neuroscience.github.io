@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>Eventer model repository</title>
+      <link>https://sussex-neuroscience.github.io/project/eventer/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/eventer/</guid>
+      <description>&lt;p&gt;From the 
+&lt;a href=&#34;https://eventerneuro.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eventer homepage&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Eventer is a programme designed for the detection of spontaneous synaptic events measured by electrophysiology or imaging. The software combines deconvolution for detection, and variable length template matching approaches for screening out false positive events. Eventer also includes a machine learning-based approach allowing users to train a model to implement their ‘expert’ selection criteria across data sets without bias. Sharing models allows users to implement consistent analysis procedures. The software is coded in MATLAB, but has been compiled as standalone applications for Windows, Mac and Linux.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fish tracking system</title>
       <link>https://sussex-neuroscience.github.io/project/fish-behaviour1/</link>
       <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
@@ -39,6 +57,17 @@
 &lt;a href=&#34;https://github.com/grg2rsr/OlfactoryStimulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github already&lt;/a&gt;, unfortunately some of the schematics are only in PDF format (which prevents fast conversion to PCBs) and some of the CAD files are in a proprietary format, that officially can only be read with &amp;ldquo;Autodesk Inventor&amp;rdquo;. Luckily there is a 
 &lt;a href=&#34;https://github.com/jmplonka/InventorLoader/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plugin for FreeCad&lt;/a&gt; that allows the conversion to a more open format.  This derivative will share orignal files that can be modified using open source sofware.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pockel cell controller</title>
+      <link>https://sussex-neuroscience.github.io/project/pockel-cell-controller/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/pockel-cell-controller/</guid>
+      <description>&lt;p&gt;An open source circuit to modulate laser intensity in a 2 Photon microscope.&lt;/p&gt;
+&lt;p&gt;This modulation is necessary when visual stimulation is used to elicit responses from biological tissue (photoreceptors).&lt;/p&gt;
+&lt;p&gt;The laser power is tunned high and low periodically (in our systems at 500Hz using a square wavefom at 80% duty cycle). When laser power is low, visual stimulation is on, when laser power is high, visual stimulation is off.&lt;/p&gt;
 </description>
     </item>
     
