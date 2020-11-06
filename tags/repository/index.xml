@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>repository | Open Source Sussex Neuroscience</title>
+    <link>https://sussex-neuroscience.github.io/tags/repository/</link>
+      <atom:link href="https://sussex-neuroscience.github.io/tags/repository/index.xml" rel="self" type="application/rss+xml" />
+    <description>repository</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 06 Oct 2020 15:00:56 +0000</lastBuildDate>
+    <image>
+      <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>repository</title>
+      <link>https://sussex-neuroscience.github.io/tags/repository/</link>
+    </image>
+    
+    <item>
+      <title>Open Neuroscience</title>
+      <link>https://sussex-neuroscience.github.io/project/open-neuroscience/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/open-neuroscience/</guid>
+      <description>&lt;p&gt;Open Neuroscience is a user-driven database of Open Source/Science projects related to Neurosciences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It serves as a curated space, where users can register their projects with short descriptions and topic classifications.&lt;/li&gt;
+&lt;li&gt;Registered content can be filtered, searched, and all projects in a certain topic quickly compared, so that users can find what is most fitting for their needs.&lt;/li&gt;
+&lt;li&gt;Having all projects listed under one place, also gives them visibility and hopefully helps in terms of bringing users/collaborators to them, making sure developing efforts are not wasted.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

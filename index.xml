@@ -5,12 +5,46 @@
     <link>https://sussex-neuroscience.github.io/</link>
       <atom:link href="https://sussex-neuroscience.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Source Sussex Neuroscience</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Mon, 03 Aug 2020 11:02:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 06 Oct 2020 15:00:56 +0000</lastBuildDate>
     <image>
       <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Open Source Sussex Neuroscience</title>
       <link>https://sussex-neuroscience.github.io/</link>
     </image>
+    
+    <item>
+      <title>Open Neuroscience</title>
+      <link>https://sussex-neuroscience.github.io/project/open-neuroscience/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/open-neuroscience/</guid>
+      <description>&lt;p&gt;Open Neuroscience is a user-driven database of Open Source/Science projects related to Neurosciences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It serves as a curated space, where users can register their projects with short descriptions and topic classifications.&lt;/li&gt;
+&lt;li&gt;Registered content can be filtered, searched, and all projects in a certain topic quickly compared, so that users can find what is most fitting for their needs.&lt;/li&gt;
+&lt;li&gt;Having all projects listed under one place, also gives them visibility and hopefully helps in terms of bringing users/collaborators to them, making sure developing efforts are not wasted.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Printed replacement part</title>
+      <link>https://sussex-neuroscience.github.io/project/cagefloor/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/cagefloor/</guid>
+      <description>&lt;p&gt;Simple printed replacement for an acrylic part that broke off.
+Printed in PLA, it holds the metal rods composing the flooring of a mouse behavioural box&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Printed replacement part</title>
+      <link>https://sussex-neuroscience.github.io/project/shakerrepair/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/shakerrepair/</guid>
+      <description>&lt;p&gt;Simple printed replacement for an acrylic part that broke off.
+Printed in PLA, it holds the metal rods composing the flooring of a mouse behavioural box&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PMT signal combiner</title>
@@ -79,6 +113,16 @@ Can be used to measure if visual stimulators are working correctly or to trigger
 &lt;a href=&#34;http://www.eye-tuebingen.de/eulerlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euler Lab&lt;/a&gt;, this spatial stimulator is able to use most of the commercially available LEDs, making it quite flexible in terms of wavelength spectra. It can take up to 6 different LEDs and be synchronised with most microscope systems.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;More details are available on its 
 &lt;a href=&#34;https://elifesciences.org/articles/48779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electric lens driver</title>
+      <link>https://sussex-neuroscience.github.io/project/electriclensdriver/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:33 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/electriclensdriver/</guid>
+      <description>&lt;p&gt;Described in the 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/821405v1.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBO Scope paper&lt;/a&gt;, this driver can be used to control electric tunable lenses. These lenses are used for fast Z-axis scans.&lt;/p&gt;
 </description>
     </item>
     

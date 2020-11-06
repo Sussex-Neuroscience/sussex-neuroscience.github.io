@@ -25,5 +25,15 @@ of two photo multiplier tubes (PMTs) installed in one of the 2-photon microscope
 </description>
     </item>
     
+    <item>
+      <title>Electric lens driver</title>
+      <link>https://sussex-neuroscience.github.io/project/electriclensdriver/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:33 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/electriclensdriver/</guid>
+      <description>&lt;p&gt;Described in the 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/821405v1.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBO Scope paper&lt;/a&gt;, this driver can be used to control electric tunable lenses. These lenses are used for fast Z-axis scans.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
