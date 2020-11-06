@@ -5,7 +5,7 @@
     <link>https://sussex-neuroscience.github.io/authors/phillip/</link>
       <atom:link href="https://sussex-neuroscience.github.io/authors/phillip/index.xml" rel="self" type="application/rss+xml" />
     <description>phillip</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 18 Feb 2020 15:00:33 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 06 Nov 2020 11:00:33 +0000</lastBuildDate>
     <image>
       <url>https://sussex-neuroscience.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>phillip</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Electric lens driver</title>
-      <link>https://sussex-neuroscience.github.io/project/electriclensdriver/</link>
-      <pubDate>Tue, 18 Feb 2020 15:00:33 +0000</pubDate>
-      <guid>https://sussex-neuroscience.github.io/project/electriclensdriver/</guid>
+      <link>https://sussex-neuroscience.github.io/project/electric-lens-driver/</link>
+      <pubDate>Fri, 06 Nov 2020 11:00:33 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/electric-lens-driver/</guid>
       <description>&lt;p&gt;Described in the 
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/821405v1.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBO Scope paper&lt;/a&gt;, this driver can be used to control electric tunable lenses. These lenses are used for fast Z-axis scans.&lt;/p&gt;
 </description>

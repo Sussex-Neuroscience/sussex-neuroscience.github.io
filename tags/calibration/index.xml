@@ -33,5 +33,18 @@ Can be used to measure if visual stimulators are working correctly or to trigger
 </description>
     </item>
     
+    <item>
+      <title>Electrode calibration</title>
+      <link>https://sussex-neuroscience.github.io/project/electrode-cal/</link>
+      <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
+      <guid>https://sussex-neuroscience.github.io/project/electrode-cal/</guid>
+      <description>&lt;p&gt;A project developed for the 
+&lt;a href=&#34;www.sussex.ac.uk/profiles/454349/research&#34;&gt;Singer Lab&lt;/a&gt;, based on 
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinkala et al 2012&lt;/a&gt; we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
